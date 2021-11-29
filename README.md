@@ -1,2 +1,2 @@
 # MedSegTransformer
-Transformer-based methods for Medical Image Segmentation
+Transformers for Medical Image Segmentation
