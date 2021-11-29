@@ -1,5 +1,5 @@
 # MedSegTransformer
-Transformer-based methods for Medical Image Segmentation
+Transformers for Medical Image Segmentation
 
 | Date   | First Author               | Affiliation       | Title                                                        | Dimension | Targets                                   |
 | ------ | -------------------------- | ----------------- | ------------------------------------------------------------ | --------- | ----------------------------------------- |
@@ -10,5 +10,3 @@ Transformer-based methods for Medical Image Segmentation
 | 202106 | Wenxuan Wang               | USTB              | TransBTS: Multimodal Brain Tumor Segmentation Using Transformer [[paper]](https://arxiv.org/pdf/2103.04430.pdf) [[code]](https://github.com/Wenxuan-1119/TransBTS) | 3D        | Brain tumor                               |
 | 202102 | Yundong Zhang              | Rayicer           | TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation [[paper]](https://arxiv.org/pdf/2102.08005.pdf) [[code]](https://github.com/Rayicer/TransFuse) | 2D        | Polyp, skin lesion, hip, and prostate     |
 | 202102 | Jieneng Chen               | JHU               | TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation [[paper]](https://arxiv.org/pdf/2102.04306.pdf) [[code]](https://github.com/Beckschen/TransUNet.) | 2D        | Multiple organs                           |
-
-
