@@ -27,29 +27,13 @@ Transformers for medical image segemntation with at least code or peer-reviewed 
 
 ## Related Topics
 
-### Survey of Transformers
+### Surveys of Transformers
 
 | Date | First Author | Affiliation | Title |
 | ---- | ------------ | ----------- | ----- |
 | 202111     | Yang Liu             | ICTCAS            | A Survey of Visual Transformers [[paper]]()     |
-|      |              |             |       |
-|      |              |             |       |
-|      |              |             |       |
-|      |              |             |       |
-|      |              |             |       |
-
-
-
-[comment:] asdf
-
-### Groundwork
-
-
-
-### Semantic Segmentation
-
-
-
-### Multi-modal Medical Image Processing
-
+| 202106 | Tianyang Lin | Fudan University | A Survey of Transformers [[paper]](https://arxiv.org/pdf/2106.04554.pdf) |
+| 202101 | Salman Khan | MBZUAI | Transformers in Vision: A Survey [[paper]](https://arxiv.org/pdf/2101.01169.pdf?fbclid=IwAR2oC8-lxIprreAWEeZSHkUWeHYTwtvRm-EWP2ySUMBy2nvBYknBMlTjCu0) |
+| 202012 | Kai Han | Noah's Ark Lab | A Survey on Vision Transformer [[paper]](https://arxiv.org/pdf/2012.12556.pdf) |
+| 202009 | Yi Tay | Google Research | Efficient Transformers: A Survey [[paper]](https://arxiv.org/pdf/2009.06732.pdf) |
 
