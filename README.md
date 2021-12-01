@@ -46,7 +46,7 @@ Transformers for medical image segemntation with at least code or peer-reviewed 
 | 202005     | Nicolas Carion     | Facebook                       | End-to-end Object Detection with Transformers [[paper]](https://arxiv.org/pdf/2005.12872.pdf) [[code]](https://github.com/facebookresearch/detr) | ECCV 2020    |
 | 202103     | Ze Liu             | MSRA                           | Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [[paper]](https://arxiv.org/abs/2103.14030) [[code]](https://github.com/microsoft/Swin-Transformer) | ICCV 2021    |
 | 202010     | Alexey Dosovitskiy | Google Research                | An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [[paper]](https://arxiv.org/abs/2010.11929) [[JAX code]](https://github.com/google-research/vision_transformer) [[PyTorch code]](https://github.com/jeonsworld/ViT-pytorch) | ICLR 2020    |
-| 12/06/2017 | Ashish Vaswani     | Google Brain & Google Research | Attention Is All You Need [[paper]](https://arxiv.org/abs/1706.03762) [[code]](https://github.com/tensorflow/tensor2tensor) | NeurIPS 2017 |
+| 201712 | Ashish Vaswani     | Google Brain & Google Research | Attention Is All You Need [[paper]](https://arxiv.org/abs/1706.03762) [[code]](https://github.com/tensorflow/tensor2tensor) | NeurIPS 2017 |
 
 
 
